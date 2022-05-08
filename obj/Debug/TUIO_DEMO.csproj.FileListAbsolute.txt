@@ -1,0 +1,14 @@
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\TuioDemo.exe
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\TuioDemo.pdb
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TuioDemo.exe
+E:\CS\SEM6\GRAD\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TuioDemo.pdb
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\bin\Debug\TuioDemo.exe
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\bin\Debug\TuioDemo.pdb
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TuioDemo.resources
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TuioDemo.exe
+E:\CS\SEM6\GRAD\fruitgame\TUIO11_NET\obj\Debug\TuioDemo.pdb
